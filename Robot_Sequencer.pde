@@ -59,11 +59,11 @@ int scl[] ={45, 47, 48, 50, 52, 53, 54, 55,
 69, 71, 72, 74, 76, 77, 78, 79, 
 81, 83, 84, 86, 88, 89, 90, 91, 
 93, 95, 96};
-/*
+
 boolean sketchFullScreen() {
   return true;
 }
-*/
+
 
 void setup() {
   size(displayWidth, displayHeight);
